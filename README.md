@@ -42,6 +42,6 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 ## Contacto
 
-Para obtener más información sobre este proyecto, contáctanos en example@example.com.
+Para obtener más información sobre este proyecto, contáctanos en milescar@example.com.
 
 ¡Gracias por tu interés y contribuciones!
